@@ -1,1 +1,0 @@
-# jenkinsci-helloworld-builder
